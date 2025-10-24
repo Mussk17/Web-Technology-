@@ -8,7 +8,7 @@ What to include in your page:
 
 A series of sections: 
 
-* 1) Header - title: My recruitment profile; 
+1) Header - title: My recruitment profile; 
 
 * 2) Sub-section - About me and a paragraph providing an overview of you, what you are looking for and the types of roles you are interested in;
 
