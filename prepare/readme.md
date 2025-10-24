@@ -10,10 +10,10 @@ A series of sections:
 
 1) Header - title: My recruitment profile; 
 
-* 2) Sub-section - About me and a paragraph providing an overview of you, what you are looking for and the types of roles you are interested in;
+2) Sub-section - About me and a paragraph providing an overview of you, what you are looking for and the types of roles you are interested in;
 
-* 3) Sub-section - Skills and Experience and a paragraph explaining the skills and any work experience you have; 
+3) Sub-section - Skills and Experience and a paragraph explaining the skills and any work experience you have; 
 
-* 4) Sub-section - Education and an unordered list for listing your education qualifications from most recent to eldest and 
+4) Sub-section - Education and an unordered list for listing your education qualifications from most recent to eldest and 
 
-* 5) Finally, a Sub-section and an unordered list called Hobbies and interests
+5) Finally, a Sub-section and an unordered list called Hobbies and interests
